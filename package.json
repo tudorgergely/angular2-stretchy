@@ -1,0 +1,26 @@
+{
+  "name": "angular2-stretchy",
+  "version": "1.0.0",
+  "description": "Angular 2 directive to make input have a dynamic width",
+  "main": "index.ts",
+  "author": "Tudor Gergely <tudorgergely@gmail.com>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tudorgergely/angular2-stretchy.git"
+  },
+  "keywords": [
+    "ng2",
+    "angular",
+    "angular2",
+    "autosize",
+    "input",
+    "stretchy",
+    "width",
+    "@angular"
+  ],
+  "devDependencies": {
+    "@angular/core": "^2.4.9",
+    "typescript": "^2.2.1"
+  }
+}
