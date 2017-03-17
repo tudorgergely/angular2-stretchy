@@ -2,6 +2,10 @@
 
 ***angular2-stretchy*** is an Angular2 directive that automatically adjusts input width to fit content.
 
+## Demo:
+
+https://tudorgergely.github.io/angular2-stretchy/
+
 ## Installation:
 
 ```bash

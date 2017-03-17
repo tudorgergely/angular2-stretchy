@@ -1,6 +1,6 @@
 {
   "name": "angular2-stretchy",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Angular 2 directive to make input have a dynamic width",
   "main": "index.ts",
   "author": "Tudor Gergely <tudorgergely@gmail.com>",

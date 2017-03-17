@@ -7,6 +7,11 @@ export class StretchyDirective implements OnInit {
     @HostBinding('style.width.px')
     private inputWidth: number = 0;
 
+    @HostBinding('style.box-sizing')
+    private get boxSizing() {
+        return 'content-box';
+    }
+
     private sizeDiv;
 
     constructor(private renderer: Renderer,
