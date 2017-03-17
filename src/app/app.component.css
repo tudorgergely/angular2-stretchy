@@ -1,0 +1,14 @@
+.container {
+  max-width: 60%;
+  margin: 10px auto 0;
+}
+
+.demo__title {
+  margin-top: 0;
+  display: inline-block;
+}
+
+.demo__github-button {
+  float: right;
+}
+
